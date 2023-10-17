@@ -1,13 +1,9 @@
 # UI/UX Design Learning Guide
 > Roadmap to becoming a UI/UX Designer
 
-This repository contains a curated list of resources to help you learn about User Interface and User Experience design. The learning guide is divided into three levels: Beginner, Intermediate, and Expert, and includes a wide range of resources such as articles, tutorials, videos, and courses. Whether you're just starting or looking to expand your knowledge, this guide has something for everyone. So, come explore and enhance your skills in UI/UX design! 🎨
+This repository contains a curated list of resources to help you learn about User Interface and User Experience design. The learning guide is divided into three levels: Beginner, Intermediate, and Expert, and includes a wide range of resources such as articles, tutorials, videos, and courses. Whether you're just starting or looking to expand your knowledge, this guide has something for everyone. So, come explore and enhance your skills in UI/UX design!
 
-&nbsp;&nbsp;&nbsp;
-
-<div align="center"> <h3>Overview</h3>
-<summary> 
-  <p> 📚 A comprehensive user interface and user experience learning resource for beginners, intermediates and experts. </p>
+  <p> A comprehensive user interface and user experience learning resource for beginners, intermediates and experts. </p>
 
 
 # Table of Contents
