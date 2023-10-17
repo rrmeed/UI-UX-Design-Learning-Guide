@@ -2106,10 +2106,3 @@ F --> T([Professional Development and Networking])
 | **Michael Ajah** | Oluwaseun Oluwadamilare is a product designer who believes in the power of design to solve problems. | [Follow](https://twitter.com/dnaijatechguy) |
 
 &nbsp;
-
-###### We have come to the end of this resource. If you have any suggestions, please feel free to reach out to me on [Twitter](https://twitter.com/hendurhance), [LinkedIn](https://www.linkedin.com/in/hendurhance/), or [by Email](mailto:hendurhance@outlook.com). I would love to hear from you.
-**<div align="right"><a href="#table-of-contents"> ⬆️ Back to Top</a></div>**
-
-# Contributing
-I'll be more than pleased if you contribute to this resource.
-[Read Contribution Doc](CONTRIBUTING.md)
